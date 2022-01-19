@@ -1,21 +1,19 @@
 {
   "expo": {
-    "name": "chat",
-    "slug": "chat",
+    "name": "Wired Brain Chat",
+    "slug": "Coffee drinkers unite!",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/wired-brain-coffee-logo.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/wired-brain-coffee-logo.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
